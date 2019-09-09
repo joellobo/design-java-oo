@@ -1,7 +1,50 @@
 # design-java-oo
 Design Java OO
 
+# Prefix
+- I
+
+
 # Suffix
+- Dialect
+- Repository
+- Algorithms
+- Input
+- Output
+- Codec
+- Encoder
+- Decoder
+- Comparator
+- Property
+- Record
+- Generator
+- Builder
+- Request
+- Response
+- Extractor
+- Cache
+- Node
+- Entry
+- Formula
+- Formatter
+- Evaluator
+- Function
+- Policy
+- Style
+- Constraint
+- Strategy
+- Field
+- Context
+- Resolver
+- Render
+- Agent
+- Chain
+- Task
+- Query
+- Pool
+- Connection
+- Loader
+- Bundle
 - Facade
 - DAO
 - Business
