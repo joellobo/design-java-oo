@@ -1,9 +1,9 @@
 # design-java-oo
 Design Java OO
 
-
-Facade
-DAO
+# Suffix
+- Facade
+- DAO
 Business
 Helper
 UI
