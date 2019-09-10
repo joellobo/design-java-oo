@@ -6,131 +6,111 @@ Design Java OO
 
 
 # Suffix
-## A
-- Algorithms
-- Agent
-## B
-- Builder
-## C
-- Cache
-- Context
-- Codec
-- Constraint
-- Comparator
-- Chain
-## D
-- Dialect
-- Decoder
-## E
-- Evaluator
-- Encoder
-- Extractor
-- Entry
-## F
-- Field
-- Formula
-- Formatter
-- Function
-## G
-- Generator
-## H
-## I
-- Input
-## J
-## K
-## L
-## M
-## N
-- Node
-## O
-- Output
-## P
-- Policy
-- Property
-## Q
-## R
-- Record
-- Repository
-- Request
-- Response
-- Resolver
-- Render
-## S
-- Style
-- Strategy
 
+Abstract
+Adapter
+Agent
+Algorithms
+Base
+BC
+Builder
+Bundle
+Business
+Cache
+Chain
+Client
+Codec
+Comparator
+Config
+Configuration
+Connection
+Const
+Constraint
+Context
+Controller
+Converter
+DAO
+DataModel
+DataSource
+Decoder
+Dialect
+DTO
+Encoder
+Entity
+Entry
+Enum
+Evaluator
+Event
+Exception
+Exdcutor
+Exporter
+Extractor
+Facade
+Factory
+Field
+Filter
+Formatter
+Formula
+Function
+Generator
+Handler
+Helper
+Impl
+Info
+Input
+Interceptor
+Listener
+Loader
+Manager
+Mapper
+MB
+Model
+Node
+Output
+Pattern
+PK
+Policy
+Pool
+Producer
+Property
+Qualifier
+Query
+Queue
+Record
+Render
+Repository
+Request
+Resolver
+Resource
+Response
+Result
+Role
+RS
+SC
+Schedule
+Security
+Server
+Service
+Servlet
+Step
+Strategy
+Stream
+Style
+Task
+Test
+Thread
+Type
+UI
+Util
+Utils
+Validator
+Verifier
+View
+VO
+Worker
+Workflow
+WS
 
-
-- Task
-- Query
-- Pool
-- Connection
-- Loader
-- Bundle
-- Facade
-- DAO
-- Business
-- Helper
-- UI
-- Service
-- Entity
-- VO
-- DTO
-- Test
-- Filter
-- Listener
-- Adapter
-- Impl
-- Abstract
-- Exception
-- Converter
-- Util
-- Resource
-- Step
-- Workflow
-- Manager
-- Base
-- Model
-- Enum
-- PK
-- WS
-- Producer
-- Exporter
-- RS
-- Schedule
-- Exdcutor
-- Qualifier
-- MB
-- View
-- Controller
-- Worker
-- Thread
-- DataSource
-- Factory
-- Client
-- Server
-- Type
-- BC
-- Interceptor
-- Event
-- Const
-- Mapper
-- Validator
-- DataModel
-- Servlet
-- Info
-- Config
-- Configuration
-- Pattern
-- Role
-- Stream
-- Security
-- Verifier
-- Queue
-- Utils
-- Handler
-- Result
-- SC
 
 # Rules
 1. 
