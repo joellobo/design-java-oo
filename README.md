@@ -1,6 +1,19 @@
 # design-java-oo
 Design Java OO
 
+# reference 
+https://www.martinfowler.com/articles/enterprisePatterns.html
+
+# annotations 
+SOLID (Robert C. Martin),
+GOF (Erich Gamma),
+GRASP (Craig Larman),
+P of EAA (Fowler)
+EIP (Gregor Hohpe and Bobby Woolf)
+J2EE Patterns
+Analysis Patterns
+Domain Driven Design (Evans)
+
 # Prefix
 - I
 - E
